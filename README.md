@@ -18,7 +18,7 @@ Airtable • GitHub • n8n • Slack • Jira/Confluence • AWS • Python
 
 ### 🧠 AI Learning Tracker Dashboard
 
-![AI Learning Tracker Dashboard](assets/A_2D_digital_image_displays_a_learning_tracker_das.png)
+![AI Learning Tracker Dashboard](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/dashboard.jpeg)
 
 This view shows AI-generated summaries, progress bars, and risk levels for each learning goal.
 
