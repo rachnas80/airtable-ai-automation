@@ -16,5 +16,11 @@ I build large-scale migration programs, AI-powered dashboards, and automation pl
 ### Tools I use a lot
 Airtable • GitHub • n8n • Slack • Jira/Confluence • AWS • Python
 
+### 🧠 AI Learning Tracker Dashboard
+
+![AI Learning Tracker Dashboard](assets/A_2D_digital_image_displays_a_learning_tracker_das.png)
+
+This view shows AI-generated summaries, progress bars, and risk levels for each learning goal.
+
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/rachus)
