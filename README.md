@@ -34,5 +34,4 @@
 >   ![AI Learning Tracker Dashboard](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/Dashboard_3.png)
 >
 > 
->     ### 🪄 Author
->     **Rachna Singh** - [LinkedIn](https://www.linkedin.com/in/rachus/)
+>     ### ✍️ Author **Rachna Singh** — [LinkedIn](https://www.linkedin.com/in/rachus/)
