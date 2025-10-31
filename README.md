@@ -13,7 +13,7 @@
 > - Use Airtable’s AI field to summarize progress
 > - Send Slack or Confluence updates automatically
 > - Visualize learning trends through a custom Interface Dashboard
->   --- ## 📊 Dashboard Preview ### 🧠 AI Learning Tracker Dashboard ![AI Learning Tracker Dashboard](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/dashboard.jpeg) Each record represents a learning goal (e.g., AWS Certification, CPMAI, Yoga Routine) with: - **Progress %** - **Risk Level (RAG)** - **AI Summary** - **Next Milestone** --- ### 🔄 Automation Workflow Overview ![Automation Workflow Diagram](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/workflow.jpeg)) Automation Flow:
+>   --- ## 📊 Dashboard Preview ### 🧠 AI Learning Tracker Dashboard ![AI Learning Tracker Dashboard](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/dashboard.jpeg) Each record represents a learning goal (e.g., AWS Certification, CPMAI, Yoga Routine) with: - **Progress %** - **Risk Level (RAG)** - **AI Summary** - **Next Milestone** --- ### 🔄 Automation Workflow Overview ![Automation Workflow Diagram](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/workflow.jpeg)
 
 
 ### Connect
