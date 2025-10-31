@@ -17,16 +17,20 @@
 > - Visualize learning trends through a custom Interface Dashboard
 >   --- ## 📊 Dashboard Preview
 >   ### 🧠 AI Learning Tracker Dashboard
->   ![AI Learning Tracker Dashboard](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/dashboard.jpeg)
+>   ![AI Learning Tracker Dashboard](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/Dashboard_1.png)
+>   ![AI Learning Tracker Dashboard](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/Dashboard_1.png)
+>   ![AI Learning Tracker Dashboard](ttps://github.com/rachnas80/airtable-ai-automation/blob/main/asets/Dashboard_1.png)
 >
->   Each record represents a learning goal (e.g., AWS Certification, CPMAI, Yoga Routine) with:
+>   Each record represents a learning goal 
 >   - **Course Name**
 >   - **Score%**
 >   - **Percentage %**
+>   - **Status**
 >     
 >   --- ### 🔄 Automation Workflow Overview
 >   
 >     ![Automation Workflow Diagram](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/workflow.jpeg)
 
-### Connect
-[LinkedIn](https://www.linkedin.com/in/rachus)
+## 🪄 Author 
+        **Rachna Singh** AI-Enhanced Program Management | Cloud & DevOps Transformation | Automation Design 
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachus
