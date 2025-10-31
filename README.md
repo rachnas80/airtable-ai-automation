@@ -20,11 +20,12 @@
 >   ![AI Learning Tracker Dashboard](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/dashboard.jpeg)
 >
 >   Each record represents a learning goal (e.g., AWS Certification, CPMAI, Yoga Routine) with:
->   - **Progress %**
->   - **Risk Level (RAG)**
->   - **AI Summary**
->   - **Next Milestone**
+>   - **Course Name**
+>   - **Score%**
+>   - **Percentage %**
+>     
 >   --- ### 🔄 Automation Workflow Overview
+>   
 >     ![Automation Workflow Diagram](https://github.com/rachnas80/airtable-ai-automation/blob/main/asets/workflow.jpeg)
 
 ### Connect
